@@ -1,0 +1,5 @@
+hello world
+my name is daniel
+I am writing this txt to try the excercise 5 of python course
+i Am just starting to learn python so this script migth not work
+Python is good
